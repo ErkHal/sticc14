@@ -8,6 +8,7 @@
 * 14 keys
 * Throughhole/SMD diodes
 * QMK Compatible
+* Uses Pro Micro (Atmega32u4)
 
 ## Firmware
 - Uses QMK: https://qmk.fm/  
